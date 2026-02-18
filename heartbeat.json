@@ -1,1 +1,6 @@
-{"status":"alive","timestamp":"2026-02-18 20:15:00","server":"main"}
+{
+  "status": "alive",
+  "timestamp": "2026-02-18 20:17:30",
+  "server": "main",
+  "timezone": "Asia/Shanghai"
+}
